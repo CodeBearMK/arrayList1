@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\arrayList1\bin\Debug\net6.0\arrayList1.exe
+D:\cat32tw\Desktop\arrayList1\bin\Debug\net6.0\arrayList1.deps.json
+D:\cat32tw\Desktop\arrayList1\bin\Debug\net6.0\arrayList1.runtimeconfig.json
+D:\cat32tw\Desktop\arrayList1\bin\Debug\net6.0\arrayList1.dll
+D:\cat32tw\Desktop\arrayList1\bin\Debug\net6.0\ref\arrayList1.dll
+D:\cat32tw\Desktop\arrayList1\bin\Debug\net6.0\arrayList1.pdb
+D:\cat32tw\Desktop\arrayList1\obj\Debug\net6.0\arrayList1.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\arrayList1\obj\Debug\net6.0\arrayList1.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\arrayList1\obj\Debug\net6.0\arrayList1.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\arrayList1\obj\Debug\net6.0\arrayList1.AssemblyInfo.cs
+D:\cat32tw\Desktop\arrayList1\obj\Debug\net6.0\arrayList1.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\arrayList1\obj\Debug\net6.0\arrayList1.dll
+D:\cat32tw\Desktop\arrayList1\obj\Debug\net6.0\ref\arrayList1.dll
+D:\cat32tw\Desktop\arrayList1\obj\Debug\net6.0\arrayList1.pdb
+D:\cat32tw\Desktop\arrayList1\obj\Debug\net6.0\arrayList1.genruntimeconfig.cache
